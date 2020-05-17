@@ -4,7 +4,7 @@
 ## 1. Prerequisites
 
 <p align="justify">
-Have installed on your computer ATMEL Studio.
+Have installed on your computer ATMEL Studio and PROGISP, have an atmel microcontroller burner.
 </p>
 
 ## 2. Materials used
